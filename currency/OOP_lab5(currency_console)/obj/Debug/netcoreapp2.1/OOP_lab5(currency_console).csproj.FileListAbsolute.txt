@@ -1,0 +1,25 @@
+C:\Users\marik\OneDrive\Рабочий стол\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).csprojAssemblyReference.cache
+C:\Users\marik\OneDrive\Рабочий стол\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Рабочий стол\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).AssemblyInfoInputs.cache
+C:\Users\marik\OneDrive\Рабочий стол\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).AssemblyInfo.cs
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).csprojAssemblyReference.cache
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).csproj.CoreCompileInputs.cache
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).AssemblyInfoInputs.cache
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).AssemblyInfo.cs
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\bin\Debug\netcoreapp2.1\OOP_lab5(currency_console).deps.json
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\bin\Debug\netcoreapp2.1\OOP_lab5(currency_console).runtimeconfig.json
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\bin\Debug\netcoreapp2.1\OOP_lab5(currency_console).runtimeconfig.dev.json
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\bin\Debug\netcoreapp2.1\OOP_lab5(currency_console).dll
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\bin\Debug\netcoreapp2.1\OOP_lab5(currency_console).pdb
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).dll
+C:\Users\marik\Desktop\all\Навчання\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).pdb
+C:\Users\marik\Desktop\all\stusy4\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).csprojAssemblyReference.cache
+C:\Users\marik\Desktop\all\stusy4\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).AssemblyInfoInputs.cache
+C:\Users\marik\Desktop\all\stusy4\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).AssemblyInfo.cs
+C:\Users\marik\Desktop\all\stusy4\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).dll
+C:\Users\marik\Desktop\all\stusy4\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\obj\Debug\netcoreapp2.1\OOP_lab5(currency_console).pdb
+C:\Users\marik\Desktop\all\stusy4\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\bin\Debug\netcoreapp2.1\OOP_lab5(currency_console).deps.json
+C:\Users\marik\Desktop\all\stusy4\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\bin\Debug\netcoreapp2.1\OOP_lab5(currency_console).runtimeconfig.json
+C:\Users\marik\Desktop\all\stusy4\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\bin\Debug\netcoreapp2.1\OOP_lab5(currency_console).runtimeconfig.dev.json
+C:\Users\marik\Desktop\all\stusy4\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\bin\Debug\netcoreapp2.1\OOP_lab5(currency_console).dll
+C:\Users\marik\Desktop\all\stusy4\C# конструювання ПЗ\currency\OOP_lab5(currency_console)\bin\Debug\netcoreapp2.1\OOP_lab5(currency_console).pdb

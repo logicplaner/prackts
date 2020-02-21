@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "OOP_lab5(currency_console)/1.0.0": {
+        "runtime": {
+          "OOP_lab5(currency_console).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_lab5(currency_console)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
